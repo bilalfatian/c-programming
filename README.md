@@ -17,3 +17,5 @@ Each day we will have a mini-courses and assignments for applying what you learn
   - Your First Program
 - Day 2
   - Variables and expressions
+- Day 3
+  - Structs
